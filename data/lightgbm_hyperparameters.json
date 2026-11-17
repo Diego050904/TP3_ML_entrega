@@ -1,0 +1,14 @@
+{
+  "num_leaves": 265,
+  "min_child_samples": 1,
+  "colsample_bytree": 0.780116197700814,
+  "subsample": 0.8397471130376833,
+  "reg_lambda": 0.008798051410253282,
+  "cat_smooth": 8.903078430688453,
+  "cat_l2": 4.127009591505797,
+  "min_data_per_group": 12,
+  "max_cat_threshold": 57,
+  "learning_rate": 0.05,
+  "n_estimators": 200,
+  "subsample_freq": 1
+}
