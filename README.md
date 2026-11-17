@@ -7,9 +7,6 @@
 - Thomas Michael Spitzner
 - Guillermo Arturo Ledesma Campos
 
-Una vez por semana, el predictor recibe el lote de reservas activas y devuelve `1` si la reserva se va a cancelar y `0` si no, en el mismo orden de entrada.
-Métrica de la competencia: **balanced accuracy**.
-Dataset: `gpu_resource_reservations.csv`, con 47,842 reservas y 41.7% de cancelaciones.
 
 ## Estructura
 
